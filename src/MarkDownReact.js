@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown'
 import './style.css'
 
  const MarkDownReact = () => {
-     const [markDown, setMarkDown]=useState("## This is a Markdown...");
+     const [markDown, setMarkDown]=useState("## This is Markdown...");
     return <>
         <div className="center-div">
             <textarea className="left-side" value={markDown} onChange={(e)=> setMarkDown(e.target.value)}></textarea>

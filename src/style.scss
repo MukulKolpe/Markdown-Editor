@@ -1,8 +1,11 @@
+
+$bg-color: rgb(204, 205, 206);
+
 body {
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background-color: rgb(204, 205, 206);
+    background-color: $bg-color;
   }
   
   .center-div {

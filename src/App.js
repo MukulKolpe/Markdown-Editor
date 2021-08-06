@@ -1,5 +1,5 @@
 
-import './App.css';
+
 import MarkDownReact from './MarkDownReact';
 
 function App() {

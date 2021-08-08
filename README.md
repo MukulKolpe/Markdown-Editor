@@ -32,5 +32,5 @@ Make sure you have node.js installed.
  ```
    
 
-## Deployed [here](https://code-editor-mukul.netlify.app/)
+## Deployed [here](https://markdown-editor-mukul.netlify.app/)
 
